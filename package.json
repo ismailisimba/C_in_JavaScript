@@ -1,0 +1,15 @@
+{
+  "name": "c-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-uv-event-loop-napi-h": "^1.0.6",
+    "node-gyp-build": "^4.8.4"
+  }
+}
